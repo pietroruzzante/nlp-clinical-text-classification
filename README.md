@@ -13,5 +13,5 @@ This analysis processes and classifies clinical transcriptions by embedding text
 
 Dataset has been balanced using SMOTE, and trained multiple classifiers (e.g., logistic regression, SVM) with hyperparameter tuning and GridSearchCV. The results are evaluated using classification reports and confusion matrices
 
-![SVM confusion matrix](assets/Screenshot 2025-05-15 alle 11.06.34.png)
+![SVM confusion matrix](assets/Screenshot 2025-05-15 alle 11.06.34.png)]
 
