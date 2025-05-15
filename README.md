@@ -1,6 +1,7 @@
 # **NLP for clinical text classification**
 
 Dataset: (https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions)
+
 This dataset contains sample medical transcriptions for various medical specialties.
 
 ## Documents embeddings
