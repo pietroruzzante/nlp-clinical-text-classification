@@ -1,4 +1,7 @@
-### **NLP for clinical text classification**
+# **NLP for clinical text classification**
+
+Dataset: [https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions]
+This dataset contains sample medical transcriptions for various medical specialties.
 
 ## Documents embeddings
 
@@ -8,6 +11,7 @@ This analysis processes and classifies clinical transcriptions by embedding text
 
 ## Documents classification with SVM
 
-Dataset has been balanced using SMOTE, and trained multiple classifiers (e.g., logistic regression, SVM) with hyperparameter tuning and GridSearchCV. The results are evaluated using classification reports and confusion matrices.
+Dataset has been balanced using SMOTE, and trained multiple classifiers (e.g., logistic regression, SVM) with hyperparameter tuning and GridSearchCV. The results are evaluated using classification reports and confusion matrices
+
 ![SVM confusion matrix](assets/Screenshot 2025-05-15 alle 11.06.34.png)
 
